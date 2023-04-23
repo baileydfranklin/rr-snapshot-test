@@ -8,10 +8,13 @@ exports[`It renders a snapshot 1`] = `
     className="App-header"
   >
     <img
-      alt="logo"
+      alt="logo for my gameu"
       className="App-logo"
       src="logo.svg"
     />
+    <h2>
+      Scott is the Jack Black of ThriveDX
+    </h2>
     <p>
       Edit 
       <code>
